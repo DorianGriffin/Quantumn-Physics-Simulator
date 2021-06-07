@@ -3,6 +3,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy
+import math
  # import pandas
 import pygame
 import tensorflow
